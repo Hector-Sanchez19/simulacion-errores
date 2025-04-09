@@ -1,4 +1,4 @@
-# Recuperación de Archivos en Git
+# Simulación de errores
 
 ## Error Simulado
 
